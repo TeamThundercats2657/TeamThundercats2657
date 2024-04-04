@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/KitBot Java Code/Java"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.server.launchMode": "Standard"
+	}
+}
